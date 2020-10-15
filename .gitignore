@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+split_video/.DS_Store
+base_video/
+*.mp3
+.DS_Store
