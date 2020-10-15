@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0-10_C0370.mp4#t=1.35.jpg</filename>
+    <path>items-PascalVOC-export/Annotations/0-10_C0370.mp4#t=1.35.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>BISCO_CafeAuLet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>502.39638157894734</xmin>
+        <ymin>319.61842105263156</ymin>
+        <xmax>742.6430921052631</xmax>
+        <ymax>681.7894736842104</ymax>
+    </bndbox>
+</object><object>
+    <name>BISCO_CafeAuLet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>885.2467105263157</xmin>
+        <ymin>249.3552631578947</ymin>
+        <xmax>1154.047697368421</xmax>
+        <ymax>586.7121710526316</ymax>
+    </bndbox>
+</object>
+</annotation>

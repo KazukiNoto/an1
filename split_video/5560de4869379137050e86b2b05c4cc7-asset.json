@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "5560de4869379137050e86b2b05c4cc7",
+        "format": "433333",
+        "state": 2,
+        "type": 3,
+        "name": "0-10_C0370.mp4#t=0.433333",
+        "path": "file:/Users/kazukinoto/vinxlab/an1/split_video/0-10_C0370.mp4#t=0.433333",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "c212d10ffda4fa68ff93bcde7fd4ce7a",
+            "name": "0-10_C0370.mp4",
+            "path": "file:/Users/kazukinoto/vinxlab/an1/split_video/0-10_C0370.mp4",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 0.433333
+    },
+    "regions": [
+        {
+            "id": "JrYcrFzgm",
+            "type": "RECTANGLE",
+            "tags": [
+                "BISCO_CafeAuLet"
+            ],
+            "boundingBox": {
+                "height": 322.33223684210526,
+                "width": 202.98355263157893,
+                "left": 532.5986842105262,
+                "top": 283.95888157894734
+            },
+            "points": [
+                {
+                    "x": 532.5986842105262,
+                    "y": 283.95888157894734
+                },
+                {
+                    "x": 735.5822368421052,
+                    "y": 283.95888157894734
+                },
+                {
+                    "x": 735.5822368421052,
+                    "y": 606.2911184210526
+                },
+                {
+                    "x": 532.5986842105262,
+                    "y": 606.2911184210526
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
